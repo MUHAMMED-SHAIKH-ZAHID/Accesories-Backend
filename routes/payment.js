@@ -34,7 +34,7 @@ router.post('/create', async (req, res) => {
                 id: "src_all"
             },
             redirect: {
-                url: `http://localhost:5173`,
+                url: `https://warm-sprinkles-ddbec8.netlify.app/`,
             }
         };
 
