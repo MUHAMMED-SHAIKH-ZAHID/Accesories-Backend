@@ -1,0 +1,42 @@
+0 verbose cli /usr/local/bin/node /usr/local/bin/npm
+1 info using npm@10.8.1
+2 info using node@v20.16.0
+3 silly config load:file:/usr/local/lib/node_modules/npm/npmrc
+4 silly config load:file:/Users/muhammedshaikhzahidu/Desktop/new/Machine test/tapbackend/.npmrc
+5 silly config load:file:/Users/muhammedshaikhzahidu/.npmrc
+6 silly config load:file:/usr/local/etc/npmrc
+7 verbose title npm init
+8 verbose argv "init" "--yes"
+9 verbose logfile logs-max:10 dir:/Users/muhammedshaikhzahidu/Desktop/new/Machine test/tapbackend/clean/_logs/2025-06-03T10_48_47_192Z-
+10 verbose logfile /Users/muhammedshaikhzahidu/Desktop/new/Machine test/tapbackend/clean/_logs/2025-06-03T10_48_47_192Z-debug-0.log
+11 silly logfile done cleaning log files
+12 silly package data {
+12 silly package data   name: 'tapbackend',
+12 silly package data   version: '1.0.0',
+12 silly package data   main: 'index.js',
+12 silly package data   scripts: {
+12 silly package data     test: 'echo "Error: no test specified" && exit 1',
+12 silly package data     dev: 'start nodemon',
+12 silly package data     start: 'node server.js'
+12 silly package data   },
+12 silly package data   keywords: [],
+12 silly package data   author: '',
+12 silly package data   license: 'ISC',
+12 silly package data   dependencies: {
+12 silly package data     cors: '^2.8.5',
+12 silly package data     dotenv: '^16.5.0',
+12 silly package data     express: '^5.1.0',
+12 silly package data     'node-fetch': '^3.3.2',
+12 silly package data     nodemon: '^3.1.10'
+12 silly package data   },
+12 silly package data   devDependencies: {},
+12 silly package data   description: '',
+12 silly package data   [Symbol(newline)]: '\n',
+12 silly package data   [Symbol(indent)]: '  '
+12 silly package data }
+13 verbose cwd /Users/muhammedshaikhzahidu/Desktop/new/Machine test/tapbackend
+14 verbose os Darwin 24.0.0
+15 verbose node v20.16.0
+16 verbose npm  v10.8.1
+17 verbose exit 0
+18 info ok

@@ -1,0 +1,19 @@
+0 verbose cli /usr/local/bin/node /usr/local/bin/npm
+1 info using npm@10.8.1
+2 info using node@v20.16.0
+3 silly config load:file:/usr/local/lib/node_modules/npm/npmrc
+4 silly config load:file:/Users/muhammedshaikhzahidu/Desktop/new/Machine test/tapbackend/.npmrc
+5 silly config load:file:/Users/muhammedshaikhzahidu/.npmrc
+6 silly config load:file:/usr/local/etc/npmrc
+7 verbose title npm view nodemon description dist-tags.latest homepage version time
+8 verbose argv "view" "--json" "--" "nodemon" "description" "dist-tags.latest" "homepage" "version" "time"
+9 verbose logfile logs-max:10 dir:/Users/muhammedshaikhzahidu/Desktop/new/Machine test/tapbackend/clean/_logs/2025-06-03T10_51_21_475Z-
+10 verbose logfile /Users/muhammedshaikhzahidu/Desktop/new/Machine test/tapbackend/clean/_logs/2025-06-03T10_51_21_475Z-debug-0.log
+11 silly logfile done cleaning log files
+12 http fetch GET 200 https://registry.npmjs.org/nodemon 3647ms (cache revalidated)
+13 verbose cwd /Users/muhammedshaikhzahidu/Desktop/new/Machine test/tapbackend
+14 verbose os Darwin 24.0.0
+15 verbose node v20.16.0
+16 verbose npm  v10.8.1
+17 verbose exit 0
+18 info ok
